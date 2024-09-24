@@ -3,9 +3,9 @@
 |      |      |
 |:---- |:---- |
 | Course and Year | COM304 Foundation Computing 2024 | 
-| Student Name | |
-| Student Number | |
-| Github Account | |
+| Student Name |Anuska Ghimire|
+| Student Number |Q102637993 |
+| Github Account |Anuaka27-ui |
 
 ## Introduction
 
