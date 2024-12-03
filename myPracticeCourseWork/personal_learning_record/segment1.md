@@ -24,6 +24,8 @@ We started this session with an overview of computer architectures and then we d
 
 ## session 3
 
+In this session we explored how a CPU could be constructed using logic gates. Also we looked at how a computer like the raspberry pi communicates with the outside world. We installed nodeRed in raspberry pi by following the instructions from the notes in the session. 
+
 
 
 ## session 4 (consolidate)
