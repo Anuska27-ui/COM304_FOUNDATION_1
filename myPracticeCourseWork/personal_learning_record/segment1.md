@@ -13,9 +13,18 @@ use  screen shots and / or code samples as appropriate.
 
 ## session 1
 
+In our first session we learned about basic foundation computing and a short history about computing. We started our session by making an account in github and the teacher taught us how we can clone the repository. 
+
+Also we looked at project planning in github. I also did some research online about computer history and found some resources. https://www.computerhistory.org/timeline/computers/
+
 ## session 2
 
+We started this session with an overview of computer architectures and then we dived into how boolean logic implemented in logic gates can be used to do binary arithmetic. We also did some exercises in the session and looked at the examples binary arithmetic and boolean algebra.
+
+
 ## session 3
+
+
 
 ## session 4 (consolidate)
 
