@@ -13,9 +13,10 @@ use  screen shots and / or code samples as appropriate.
 
 ## session 1
 
-In our first session we learned about basic foundation computing and a short history about computing. We started our session by making an account in github and the teacher taught us how we can clone the repository. 
+In our first session we learned about basic foundation computing and a short history about computing. We started our session by making an account in github and the teacher taught us how we can clone the repository.
 
-Also we looked at project planning in github. I also did some research online about computer history and found some resources. https://www.computerhistory.org/timeline/computers/
+Also we looked at project planning in github. I also did some research online and found resources. <https://www.computerhistory.org/timeline/computers/>
+
 
 ## session 2
 
@@ -24,11 +25,11 @@ We started this session with an overview of computer architectures and then we d
 
 ## session 3
 
-In this session we explored how a CPU could be constructed using logic gates. Also we looked at how a computer like the raspberry pi communicates with the outside world. We installed nodeRed in raspberry pi by following the instructions from the notes in the session. 
-
+In this session we explored how a CPU could be constructed using logic gates. Also we looked at how a computer like the raspberry pi communicates with the outside world. We installed nodeRed in raspberry pi by following the instructions from the notes in the session.
 
 
 ## session 4 (consolidate)
+In this session we consolidate what we’ve learned and make notes based on that.
 
 
 TBD
