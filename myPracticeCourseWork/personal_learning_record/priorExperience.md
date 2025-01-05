@@ -13,7 +13,7 @@ I did a BTEC course in IT with level 1 , 2 and 3.1 ( foundation year). The cours
   
 Right now I just have some basic knowledge of computing from my previous course. I know how to do simple coding in python and how to do some basic databases and I’m also familiar with general concepts of IT like networking, hardware and software.
 
-From this module I would like to gain more knowledge and understanding of core computing topics. I want to learn more about programming, especially how to write more complex code and solve real-world problems. I would like to improve my computing skills and understanding on how computing technologies are used in different industries. I hope this module will help me develop more practical skills and prepare me for the future and a career in IT. 
+From this module I would like to gain more knowledge and understanding of core computing topics. I want to learn more about programming, especially how to write more complex code and solve real-world problems. I would like to improve my computing skills and understanding on how computing technologies are used in different industries. I hope this module will help me develop more practical skills and prepare me for the future and a career in computer science. 
 
 
 ---
