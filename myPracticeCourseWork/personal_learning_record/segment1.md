@@ -46,7 +46,6 @@ The reference provides a lot of information about programming languages and it h
 I will begin breaking down the project tasks into smaller milestones in GitHub’s project plan to stay on track with my progress.
 
 
-
 ## session 2
 
 We started this session with an overview of computer architectures and then we dived into how boolean logic implemented in logic gates can be used to do binary arithmetic. We also did some exercises in the session and looked at the examples of binary arithmetic and boolean algebra and discussed how to clone and merge a repository using Git. Below I will talk about what I learned in this session.
