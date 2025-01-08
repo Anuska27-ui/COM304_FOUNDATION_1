@@ -7,7 +7,7 @@
 
 * At the conclusion of the module, describe how you have progressed.
 
-The Raspberry Pi and its applications were completely new to me. I learned how to set it up, utilize it for various exercises and use technologies like Node-RED to perform IoT and automation tasks.
+The Raspberry Pi and its applications were completely new to me and also Github. I learned how to set it up, utilize it for various exercises and use technologies like Node-RED to perform IoT and automation tasks. I had no idea what github was and how to use but the module has helped me learn a lot about it.
 
 I already had a basic understanding of networking, cloud computing and internet history; however the module expanded my knowledge, particularly in terms of practical use.
 
