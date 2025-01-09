@@ -35,10 +35,15 @@ Networking is the process of breaking down communication into manageable layers 
 
 Practical tools and exercises ( such as routing table management and remote access settings ) helped me improve my understanding and capability in managing small networks.
 
-I used RaspberryPi for practical networking practice which is an ideal tool that supports both command-line and graphical user interface.
+I used RaspberryPi for practical networking practice which is an ideal tool that supports both command-line and graphical user interface in the lesson.
+
+Some online research that i did -
+
+Basics of Computer Networking - This resource helped me learn more about the basics of computer networking including network types, components, protocols and services such as the Domain Name System ( DNS).
+
+<https://www.geeksforgeeks.org/basics-computer-networking/?utm_source=chatgpt.com>
 
 In my spare time I will go through online platforms of raspberry pi and watch tutorials to expand my further knowledge.
-
 
 
 ## session 10
@@ -64,6 +69,6 @@ I have also found books online. I am going to go through the books and other onl
 
 These two sessions we reviewed all the previous sessions to identify incomplete exercises or concepts requiring clarifications.
 
-
+Over the ten weeks, I explored computing history, architecture, programming, networking and cloud computing. The main areas covered include Github basics , binary arithmetic, logic gates, Raspberry Pi, GPIO programming, machine and assembly languages, operating systems and Apache web server configuration. Practical work included topics such as CPU construction, cisco cyber networking, SSH networking and Azure cloud basis. I added sessions with my own research and resources which improved my understanding of theoretical and practical computing concepts.
 TBD
 
