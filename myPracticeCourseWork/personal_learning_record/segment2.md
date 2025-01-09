@@ -86,6 +86,21 @@ This session was more of practical work rather than theory so I only focused on 
 - Working with Assembler and C on the CPUlator helped me to practice low level programming skills.
 - Using the same techniques on the RaspberryPi provided practical understanding with real hardware.
 
+To learn more about using Assembly and C for controlling 7-segment displays in CPUlator and on the RaspberryPi , I did some personal research.
+
+ARM-Assembly Language Programming for the Raspberry Pi - This reference starts with the assembly language programming and progresses to programs that are capable of doing useful tasks.
+
+<https://kevinboone.me/pi-asm-00_introduction.html?utm_source=chatgpt.com>
+
+ARM Assembly Crash Course for beginners - This video tutorial explains ARM Assembly programming using the CPUlator simulator, showing how to develop and simulate the code.
+
+<https://www.youtube.com/watch?v=N_GleyvoS3I&t=5s&ab_channel=RaniaHussein>
+
+Writing ARM Assembly Code - This resources focuses on RaspberryPi stack exchange which provides tips and guidance for beginners who want to create ARM Assembly code on the RaspberryPi.
+
+<https://raspberrypi.stackexchange.com/questions/1732/writing-arm-assembly-code?utm_source=chatgpt.com>
+
+
 For further learning I will use online resources to deepen my understanding on the topics above. I will also look at advanced operating system topics like file systems, security and so on.
 
 
@@ -109,6 +124,17 @@ Installing and configuring Apache2 , managing services and developing basic web 
 
 To install Apache we used “sudo apt install apache2”. After installing Apache we tested server functionality by accessing [**http://localhost**](http://localhost).
 
+To improve my understanding of operating system structures and the installation of the Apache 2 web server on a Raspberry Pi , I did some online research which are as follows:
+
+Operating System Structure by GeeksforGeeks - This article provides many approaches to operating system structure such as monolithic systems, layered systems and microkernels.
+
+<https://www.geeksforgeeks.org/different-approaches-or-structures-of-operating-systems/?utm_source=chatgpt.com>
+
+Apache web server: Build a local HTML server with a Raspberry Pi" by The MagPi Magazine - This reference explains how to set up an Apache web server on a Raspberry Pi including the installation and basic configuration.
+
+<https://magpi.raspberrypi.com/articles/apache-web-server?utm_source=chatgpt.com>
+
+
 This session helped me learn more about operating systems which is essential for understanding how computers work. Linux in particular is an essential component of modern computing due to its use in services, cloud platforms and embedded devices. Also the practical work with Linux and Apache server setup helped me learn some valuable skills.
 
 Next step to consolidate knowledge -
@@ -117,7 +143,7 @@ I will practice with more HTML pages using advanced tags like forms, tables and 
 
 ## session 8 (consolidate)
 
-In this session I looked at past exercises and did some of them again and went through the Cisco Cyber Security System.
+In this session I looked at past exercises and did some of them again and went through the Cisco Cyber Security System. I have spent the last few weeks learning about programming languages and operating systems and practical work with hardware and software. My next step will be to practice advanced HTML and to learn more about file systems and security.
 
 TBD
 
