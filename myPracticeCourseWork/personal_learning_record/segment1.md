@@ -143,7 +143,47 @@ I am going to do more research to expand my knowledge in these topics. I’m goi
 
 ## session 4 (consolidate)
 
-In this session we focused on consolidating the knowledge gained in the past sessions, organizing it into structured notes for future references and reinforcing essential concepts.
+n this session we focused on consolidating the knowledge gained in the past sessions, organizing it into structured notes for future references and reinforcing essential concepts. In this session we focused on consolidating the knowledge gained in the past sessions, organizing it into structured notes for future references and reinforcing essential concepts. Below I will provide what we covered in the 3 sessions and what research I have done so far.
+
+Week 1
+
+Overview: Explored the history of computing and created a Github account for project management.
+
+The topics I researched:
+
+Mechanical Calculators/Computers : Devices using gears and levers for calculations.
+
+Analog vs Digital Computers: Continuous vs. discrete data processing.
+
+Programming languages: Importance in modern technology (e.g., Python, Javascript).
+
+Week 2
+
+Topics covered:
+
+Computer Architecture: Backbone of computing, components and structure.
+
+Binary Arithmetic: Addition, subtraction, multiplication and division using 2’s complement.
+
+Logic Gates: Basics of AND, OR, NOT, XOR and NAND
+
+Researched Topics:
+
+Studied the Intel 4004 CPU and 2’s complement arithmetic for deeper understanding.
+
+Week 3
+
+Focus Areas:
+
+CPU Construction: Built using logic gates.
+
+Raspberry Pi: Installed Node-Red and explored GPIO programming.
+
+Practical work: Automated traffic light sequences using breadboards, LEDs and GPIO pins.
+
+Personal Research: Learned more about GPIO programming for physical computing.
+
+
 
 
 TBD
